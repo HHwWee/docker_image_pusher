@@ -1,1 +1,1 @@
-node:current-alpine
+node:18.17.1
