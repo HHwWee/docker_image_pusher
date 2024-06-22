@@ -1,1 +1,1 @@
-node:18.17.1
+nacos/nacos-server:2.2.1
